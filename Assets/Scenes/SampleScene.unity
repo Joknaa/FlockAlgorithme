@@ -249,7 +249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ada57e0b0e00df746bb5c238766696e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  agentPrefab: {fileID: 0}
+  agentPrefab: {fileID: 7182620774234567309, guid: 1ca38fdd8b03582498cb619095239984, type: 3}
   behavior: {fileID: 0}
   startingCount: 250
   driveFactor: 10
